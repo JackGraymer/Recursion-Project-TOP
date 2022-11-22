@@ -1,11 +1,10 @@
 # Recursion Project TOP
 
 ## Recursion
----
+
 Project from The Odin Project (TOP) to the assignments of recursion, solving a fibonacci sequence and the MergeSort algorithm.
 
 ## Assignments
----
 
 <details>
 <summary> Instructions </summary>
