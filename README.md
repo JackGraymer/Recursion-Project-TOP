@@ -3,6 +3,8 @@
 ## Recursion
 
 Project from The Odin Project (TOP) to the assignments of recursion, solving a fibonacci sequence and the MergeSort algorithm.
+Simple webpage to display the results. The page is interactive, using the terminal to play with the results.
+Instructions are available in the Legend of the page, at the bottom.
 
 ## Assignments
 
