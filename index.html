@@ -18,15 +18,33 @@
         }
         
         div{
+            overflow: scroll;
             border: 2px solid rgb(27, 179, 179);
             margin: 1em;
             padding: 1em;
+        }
+        code{
+            font-size: 1.5em;
+            font-weight: bold;
+            background-color: rgba(0, 0, 0, 0.329);
+            padding: 0.2em;
+        }
+        li{
+            margin: 1em;
         }
     </style>
 </head>
 <body>
     <div class="fibs">Fibonacci: </div>
-    <div class="fibsRec">Fibonacci Recursions: </div>
+    <div class="fibsRec">Fibonacci Recursion: </div>
     <div class="mergeSort">Merge Sort:</div>
+    <div class="legend">Legend:
+        <br><br> To use this webpage interactively, open the console on the browser, and write one of the following commands:
+        <ul>
+            <li>Fibonacci (Iterative): <code>fibs(n)</code> where <strong>n</strong> is the number of digits to display from the fivonacci sequence </li>
+            <li>Fibonacci (Recursive): <code>fiboRec(n)</code> where <strong>n</strong> is the number of digits to display from the fivonacci sequence </li>
+            <li></li>
+        </ul>
+    </div>
 </body>
 </html>
